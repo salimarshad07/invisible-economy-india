@@ -8,6 +8,7 @@ A data journalism investigation into India's informal survival economy — stree
 **Published:** [The Data Desk](https://data-desk.vercel.app/stories/invisible-economy) · June 2026  
 **Author:** [Salim Arshad](https://github.com/salimarshad07)  
 **Dashboard:** [Tableau Public](https://public.tableau.com/views/TheInvisibleEconomyIndiaStreetVendorsHomelessData2026/Dashboard)
+📄 Research Paper: https://www.researchgate.net/publication/407045444
 
 ---
 
